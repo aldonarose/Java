@@ -1,2 +1,2 @@
 # Java
-This GitHub repository serves as a centralized location to store and manage my Python code files.
+This GitHub repository serves as a centralized location to store and manage my Java code files.
